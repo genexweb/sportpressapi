@@ -177,6 +177,7 @@ function smad_update_data_callback()
 	)		
 	**/
 	/*after event dsfsdfsdfsd sdfsdfsdf*/
+	$get_all_matches = smad_get_matches();
 	print_r($get_all_matches);
 	die("end hua");
 	/*echo $key.' '.$value['name'];
